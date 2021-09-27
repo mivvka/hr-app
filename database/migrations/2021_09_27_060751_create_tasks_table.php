@@ -20,7 +20,7 @@ class CreateTasksTable extends Migration
             $table->string('e-mail');
             $table->string('role');
         });
-        
+
     }
 
     /**
